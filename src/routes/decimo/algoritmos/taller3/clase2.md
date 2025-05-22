@@ -1,6 +1,6 @@
 # 16 Ejercicios de C# con Sentencias IF para Principiantes
 
-Estos ejercicios están diseñados para jóvenes de 15-17 años que están comenzando a aprender programación en C#. Cada ejercicio se enfoca en el uso de sentencias `if` y solo requiere conocimientos de tipos de datos básicos (`int`, `double`, `string`) y entrada de datos con `Console.ReadLine()`.
+Estos ejercicios están diseñados para el grado 10, quienes están comenzando a aprender programación en C#. Cada ejercicio se enfoca en el uso de sentencias `if` y solo requiere conocimientos de tipos de datos básicos (`int`, `double`, `string`) y entrada de datos con `Console.ReadLine()`.
 
 ## Ejercicio 1: Verificador de Edad
 **Enunciado:** Crea un programa que solicite la edad del usuario y muestre si es mayor de edad (18 años o más) o menor de edad.

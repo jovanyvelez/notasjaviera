@@ -5,6 +5,7 @@
     <a href="/decimo/algoritmos/taller1">Ejercicios Propuestos String</a>
     <a href="/decimo/algoritmos/taller2">Ejercicios Propuestos If Statements</a>
     <a href="/decimo/algoritmos/taller3">If Statements Parte 2 </a>
+    <a href="/decimo/algoritmos/taller4">Bloque switch </a>
 </main>
 
 <style>
