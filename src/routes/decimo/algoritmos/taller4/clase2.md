@@ -44,9 +44,58 @@ Programa que calcule el IMC y use `switch` para mostrar la categoría (bajo peso
 Crea un juego donde el usuario y la computadora eligen, y determina el ganador.
 **Tip:** Usa números (1=piedra, 2=papel, 3=tijera) y combina las opciones del usuario y la PC.
 
-### 11. Menú de Restaurante
-Programa un sistema de menú que muestre precios y calcule el total según la selección.
-**Tip:** Cada `case` puede mostrar el precio y sumarlo a una variable `total`.
+### 11. **Ejercicio: Sistema de Pedido Simple**
+
+## Enunciado
+Crea un programa que simule un pedido en una cafetería. El usuario puede elegir **máximo 3 productos** de un menú y el programa debe calcular el total a pagar.
+
+### Menú:
+- Café - $2.50
+- Sandwich - $4.75
+- Galletas - $1.25
+- Jugo - $3.00
+- Muffin - $2.80
+
+### Requisitos:
+1. Muestra el menú al usuario
+2. Pide que seleccione su **primer producto** (número del 1 al 5)
+3. Pide que seleccione su **segundo producto** (número del 1 al 5, o 0 si no quiere más)
+4. Pide que seleccione su **tercer producto** (número del 1 al 5, o 0 si no quiere más)
+5. Calcula y muestra el total a pagar
+6. Muestra un resumen de lo que pidió
+
+### Ejemplo de ejecución:
+```
+=== CAFETERÍA LA ESQUINA ===
+1. Café - $2.50
+2. Sandwich - $4.75
+3. Galletas - $1.25
+4. Jugo - $3.00
+5. Muffin - $2.80
+
+Seleccione su primer producto (1-5): 2
+¡Sandwich agregado!
+
+Seleccione su segundo producto (1-5, o 0 para terminar): 1
+¡Café agregado!
+
+Seleccione su tercer producto (1-5, o 0 para terminar): 0
+
+=== RESUMEN DE SU PEDIDO ===
+- Sandwich: $4.75
+- Café: $2.50
+TOTAL A PAGAR: $7.25
+```
+
+## Pistas para la solución:
+- Usa **if-else if** en lugar de switch para manejar las opciones
+- Usa una variable `double total = 0` para acumular los precios
+- Usa variables `string` para recordar qué pidió el usuario (ej: `producto1`, `producto2`, `producto3`)
+- Para cada selección, verifica si es 0 (no quiere más productos) antes de procesar
+- Al final, usa **if** para mostrar solo los productos que realmente pidió (que no sean vacíos)
+
+## Desafío adicional:
+Agrega validación para que si el usuario ingresa un número inválido (menor que 0 o mayor que 5), muestre un mensaje de error y no agregue nada al pedido.
 
 ### 12. Clasificador de Edades
 Clasifica personas según su edad en categorías (niño, adolescente, adulto, adulto mayor).
