@@ -7,6 +7,7 @@
     <a href="/decimo/algoritmos/taller3">If Statements Parte 2 </a>
     <a href="/decimo/algoritmos/taller4">Bloque switch </a>
     <a href="/decimo/algoritmos/taller5">Operadores Lógicos && y || en C# </a>
+    <a href="/decimo/algoritmos/taller6">Ejercicio loops </a>
 </main>
 
 <style>
