@@ -1,7 +1,10 @@
 
 <main>
     <a href="/once/paradigmas">Programacion Funcional vs Programacion Orientada a Objetos</a>
-    <a href="/once/modulo2">Analisis y Diseño de Software</a>
+    <div>
+        <h1>Analisis y Diseño de Software</h1>
+        <a style="margin-left: 5rem;" href="/once/modulo1">Modulo I</a>
+    </div>
 
 </main>
 
@@ -12,8 +15,12 @@
         @apply flex flex-col my-10 sm:my-30 md:my-40 lg:my-48;
 
         a {
-            @apply text-2xl hover:font-bold sm:text-5xl my-2;
+            @apply text-2xl hover:font-bold sm:text-3xl my-2;
             text-decoration: none;
+        }
+
+        .margen-izq {
+            @apply ml-10;
         }
     }
 </style>
