@@ -8,6 +8,8 @@
     <a href="/decimo/algoritmos/taller4">Bloque switch </a>
     <a href="/decimo/algoritmos/taller5">Operadores Lógicos && y || en C# </a>
     <a href="/decimo/algoritmos/taller6">Ejercicio loops </a>
+    <a href="/decimo/algoritmos/taller7">Teoria ciclo for y arrays</a>
+    <a href="/decimo/algoritmos/taller8">Taller ciclo for y arrays</a>
 </main>
 
 <style>
