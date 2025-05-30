@@ -4,6 +4,7 @@
     <div>
         <h1>Analisis y Diseño de Software</h1>
         <a style="margin-left: 5rem;" href="/once/modulo1">Modulo I</a>
+        <a style="margin-left: 5rem;" href="/once/continuacion">Continuacion Modulo I</a>
     </div>
 
 </main>
