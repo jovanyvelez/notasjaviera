@@ -5,6 +5,7 @@
         <h1>Analisis y Diseño de Software</h1>
         <a style="margin-left: 5rem;" href="/once/modulo1">Modulo I</a>
         <a style="margin-left: 5rem;" href="/once/continuacion">Continuacion Modulo I</a>
+        <a style="margin-left: 5rem;" href="/once/prototipados">Prototipados</a>
     </div>
 
 </main>
@@ -16,12 +17,8 @@
         @apply flex flex-col my-10 sm:my-30 md:my-40 lg:my-48;
 
         a {
-            @apply text-2xl hover:font-bold sm:text-3xl my-2;
+            @apply block text-2xl hover:font-bold sm:text-3xl my-2;
             text-decoration: none;
-        }
-
-        .margen-izq {
-            @apply ml-10;
         }
     }
 </style>
