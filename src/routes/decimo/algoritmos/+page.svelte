@@ -10,6 +10,7 @@
     <a href="/decimo/algoritmos/taller6">Ejercicio loops </a>
     <a href="/decimo/algoritmos/taller7">Teoria ciclo for y arrays</a>
     <a href="/decimo/algoritmos/taller8">Taller ciclo for y arrays</a>
+    <a href="/decimo/algoritmos/ciclosyarreglos">Ciclos y Arreglos - Guía Completa</a>
 </main>
 
 <style>
