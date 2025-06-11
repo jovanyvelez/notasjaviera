@@ -20,7 +20,7 @@
 		{@render children()}
 	</main>
 	<footer >
-		<p>&copy; {new Date().getFullYear()} - Profesor/a Jovany Vélez</p>
+		<p>&copy; {new Date().getFullYear()} - Profesor Jovany Vélez</p>
 		<p>Todos los derechos reservados</p>
 	</footer>
 </div>

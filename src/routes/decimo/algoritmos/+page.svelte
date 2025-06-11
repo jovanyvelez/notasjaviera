@@ -11,6 +11,7 @@
     <a href="/decimo/algoritmos/taller7">Teoria ciclo for y arrays</a>
     <a href="/decimo/algoritmos/taller8">Taller ciclo for y arrays</a>
     <a href="/decimo/algoritmos/ciclosyarreglos">Ciclos y Arreglos - Guía Completa</a>
+    <a href="/decimo/algoritmos/funciones">Funciones</a>
 </main>
 
 <style>

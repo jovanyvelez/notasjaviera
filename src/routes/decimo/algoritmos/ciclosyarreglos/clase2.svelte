@@ -194,6 +194,12 @@ Console.WriteLine("Tu promedio es: " + promedio);`}</code></pre>
       📚 Ver los 38 ejercicios propuestos para practicar (quiz)
     </a>
   </section>
+
+  <section class="enlace-funciones">
+    <a href="/decimo/algoritmos/funciones" class="btn-funciones">
+      🧑‍💻 Aprende todo sobre funciones en C# (explicación y ejercicios)
+    </a>
+  </section>
 </main>
 
 <style>
@@ -331,6 +337,25 @@ h2, h3 {
 }
 .btn-ejercicios38:hover {
   background: #0369a1;
+}
+.enlace-funciones {
+  text-align: center;
+  margin: 2.5rem 0 1.5rem 0;
+}
+.btn-funciones {
+  display: inline-block;
+  background: #059669;
+  color: #fff;
+  font-weight: bold;
+  font-size: 1.1rem;
+  padding: 0.8rem 1.5rem;
+  border-radius: 0.7rem;
+  text-decoration: none;
+  box-shadow: 0 2px 8px #0001;
+  transition: background 0.2s;
+}
+.btn-funciones:hover {
+  background: #047857;
 }
 @media (max-width: 600px) {
   .clase2-container {
