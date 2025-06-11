@@ -6,10 +6,10 @@
         <a style="margin-left: 5rem;" href="/once/modulo1">Modulo I</a>
         <a style="margin-left: 5rem;" href="/once/continuacion">Continuacion Modulo I</a>
         <a style="margin-left: 5rem;" href="/once/prototipados">Prototipados</a>
-        <a style="margin-left: 5rem;" href="/once/examen">Examen</a>
+        <!--a style="margin-left: 5rem;" href="/once/examen">Examen</a-->
     </div>
 
-
+<!-- -->
 </main>
 
 <style>
