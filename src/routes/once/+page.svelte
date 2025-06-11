@@ -9,7 +9,6 @@
         <a style="margin-left: 5rem;" href="/once/examen">Examen</>
     </div>
 
-<!-- -->
 </main>
 
 <style>
