@@ -6,7 +6,7 @@
         <a style="margin-left: 5rem;" href="/once/modulo1">Modulo I</a>
         <a style="margin-left: 5rem;" href="/once/continuacion">Continuacion Modulo I</a>
         <a style="margin-left: 5rem;" href="/once/prototipados">Prototipados</a>
-        <a style="margin-left: 5rem;" href="/once/examen">Examen</a>
+        <a style="margin-left: 5rem;" href="https://script.google.com/macros/s/AKfycbxYFUL_9CwmLO1bJro2lFyJGwUcKSUI10Xx6dsp1zvWdumVtQWBhY2ylhQVpDRT0tTW/exec">Examen</a>
     </div>
 
 </main>
