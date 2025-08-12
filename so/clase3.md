@@ -35,6 +35,83 @@ Al finalizar esta clase (4 horas), ustedes podrán:
 
 ---
 
+## 🧪 Activación y Repaso (Cuestionario Diagnóstico) {#activacion}
+**Duración sugerida:** 20–25 min  
+**Propósito:** Activar conocimientos clave de la Clase 2 (componentes y funciones del SO) para construir sobre bases sólidas.
+
+### Estructura
+| Sección | Tipo | Ítems | Tiempo |
+|---------|------|-------|--------|
+| 1 | Selección múltiple | 8 | 6 min |
+| 2 | Verdadero/Falso | 6 | 4 min |
+| 3 | Relacionar | 5 | 4 min |
+| 4 | Respuesta corta | 5 | 6 min |
+| 5 | Caso práctico | 1 | 3–4 min |
+| 6 | Autoevaluación | 3 | 2 min |
+
+### Sección 1: Selección Múltiple
+1. El componente que decide qué proceso usa el CPU: a) Gestor usuarios b) Sistema de archivos c) Planificador de procesos d) Controlador hardware  
+2. Mover datos de RAM a disco para liberar espacio: a) Caché gráfico b) Swapping c) Clustering d) Refresco  
+3. ¿Qué NO es de almacenamiento? a) Organización carpetas b) Permisos archivos c) Planificación CPU d) Respaldo  
+4. Un sistema multiusuario permite: a) Un proceso b) Varios usuarios simultáneos c) Menos seguridad d) Sin memoria virtual  
+5. Ventaja típica de Linux en servidores: a) Más licencias b) Código abierto y estabilidad c) Menos redes d) No multiusuario  
+6. Memoria virtual es: a) Nube multimedia b) Simular más RAM con disco c) Duplicar procesos d) Solo móvil  
+7. Multitarea preventiva: a) Ceden voluntario b) Planificador interrumpe c) Solo embebidos d) Sin múltiples apps  
+8. Android destaca por: a) Servidores bancarios b) Ecosistema móvil + gestión recursos c) Sin permisos d) No multitarea  
+
+### Sección 2: Verdadero / Falso
+1. ( ) El kernel coordina hardware y procesos  
+2. ( ) Monoproceso = varias apps simultáneas  
+3. ( ) Protección de memoria separa procesos  
+4. ( ) NTFS y ext4 son gestores de procesos  
+5. ( ) Multiusuario: sesiones independientes  
+6. ( ) Auditoría registra acciones usuarios  
+
+### Sección 3: Relacionar
+1. Swapping  
+2. Sistema de archivos  
+3. Autenticación  
+4. IPC  
+5. Memoria virtual  
+
+Descripciones:
+A. Control de acceso a archivos  
+B. Mover procesos entre RAM y disco  
+C. Verificar identidad usuario  
+D. Comunicación entre procesos  
+E. Simular más memoria disponible  
+
+### Sección 4: Respuesta Corta
+1. Diferencia monoproceso vs multiproceso.  
+2. Una función crítica de gestión de usuarios.  
+3. Por qué es útil la memoria virtual.  
+4. Ejemplo de multitarea en tu teléfono.  
+5. Ventaja de multiusuario en laboratorio escolar.  
+
+### Sección 5: Caso Práctico
+Escenario: Música + descarga grande + edición documento + videollamada. Equipo se ralentiza.
+1. ¿Quién decide turnos CPU?  
+2. ¿Qué libera RAM moviendo a disco?  
+3. Al cerrar la app menos prioritaria, ¿qué gestión aplicas?  
+4. ¿Riesgo sin protección de memoria?  
+
+### Sección 6: Autoevaluación (1–5)
+| Tema | 1 | 2 | 3 | 4 | 5 |
+|------|---|---|---|---|---|
+| Kernel | | | | | |
+| Procesos | | | | | |
+| Memoria | | | | | |
+| Archivos | | | | | |
+| Mono vs Multi | | | | | |
+| Windows/Linux/Android | | | | | |
+
+### (Opcional) Bonus
+¿Por qué un SO móvil cierra o suspende más agresivamente apps en segundo plano que uno de escritorio?
+
+> Nota docente (ocultar a estudiantes): Clave resumida: 1c 2b 3c 4b 5b 6b 7b 8b / V F V F V V / Rel: 1B 2A 3C 4D 5E.
+
+---
+
 ## 🏷️ Tipos de Sistemas Operativos a Estudiar
 1. **Sistemas Operativos de Escritorio (Desktop)**
 2. **Sistemas Operativos Móviles**
